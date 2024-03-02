@@ -1,0 +1,10 @@
+D:\visualcodes\DplicacionNomina\bin\Debug\DplicacionNomina.exe.config
+D:\visualcodes\DplicacionNomina\bin\Debug\DplicacionNomina.exe
+D:\visualcodes\DplicacionNomina\bin\Debug\DplicacionNomina.pdb
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.csproj.AssemblyReference.cache
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.Properties.Resources.resources
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.csproj.GenerateResource.cache
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.csproj.CoreCompileInputs.cache
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.exe
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.pdb
+D:\visualcodes\DplicacionNomina\obj\Debug\DplicacionNomina.EmpleadoPL.resources
